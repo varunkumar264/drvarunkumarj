@@ -1,0 +1,11 @@
+title: "Dr. Varun Kumar J's Medical Blog"
+description: "Laser Piles Treatment and other advanced medical procedures in Bangalore."
+
+header_pages:
+  - home: "/"
+  - about: "/about/"
+  - laser-treatment: "/laser-piles-treatment-in-bangalore/"
+  - varicose-veins: "/varicose-veins-treatment-in-bangalore/"
+  - gallbladder: "/gallbladder-stones-treatment-in-bangalore/"
+
+theme: minima
