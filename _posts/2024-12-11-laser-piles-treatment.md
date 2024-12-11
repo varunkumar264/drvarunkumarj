@@ -3,8 +3,8 @@ layout: post
 title: "Laser Piles Treatment in Bangalore"
 date: 2024-12-11
 ---
-Dr. Varun Kumar J offers advanced **Laser Piles Treatment** for painless recovery and quick results.  
-For more details, visit: [Laser Piles Treatment](https://drvarunkumarj.com/laser-piles-treatment-in-bangalore/).
+Dr. Varun Kumar J offers advanced **Laser Piles Treatment** in Bangalore.  
+For more details, visit [Laser Piles Treatment](https://drvarunkumarj.com/laser-piles-treatment-in-bangalore/).
 
 ### Why Choose Laser Treatment?
 - Minimally invasive procedure
