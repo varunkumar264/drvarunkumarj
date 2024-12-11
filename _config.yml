@@ -7,5 +7,9 @@ header_pages:
   - laser-treatment: "/laser-piles-treatment-in-bangalore/"
   - varicose-veins: "/varicose-veins-treatment-in-bangalore/"
   - gallbladder: "/gallbladder-stones-treatment-in-bangalore/"
+  - index.md
+  - _posts
+
+
 
 theme: minima
