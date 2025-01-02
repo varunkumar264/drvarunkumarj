@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Welcome to Dr. Varun Kumar J’s Medical Blog"
+robots: "index, follow"
 ---
 
 Dr. Varun Kumar J offers advanced treatments in Bangalore, including Laser Piles Treatment, Varicose Veins Treatment, Gallbladder Stones Treatment, and much more.
